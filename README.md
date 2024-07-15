@@ -2,6 +2,7 @@
 Este codigo,elaborado en base al video: 
 https://youtu.be/UNFFLJPW7KQ
 
+ Aquí puedes ver como funciona: https://mercury7w7.github.io/1era-red-neuronal/
 Si deja de funcionar por algun motivo, deja un issue en github
 
 Ya no es necesario bajar la libreria jscolor, ya viene como parte del codigo 
